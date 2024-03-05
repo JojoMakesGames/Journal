@@ -1,22 +1,49 @@
 {
   "main": {
-    "id": "7676efc44e5208da",
+    "id": "f0dcc8cd50926203",
     "type": "split",
     "children": [
       {
-        "id": "44550919c6506d28",
+        "id": "7860ed42a29a0800",
         "type": "tabs",
         "children": [
           {
-            "id": "f029ef07faeb7a9d",
+            "id": "0527179a1f39e915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "17a7f9d71c8ad6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "255c2b955c24bdf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b612950dd035e263",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +52,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3580012a8f015fe3",
+    "id": "12f71706534a6d70",
     "type": "split",
     "children": [
       {
-        "id": "e15bcbf43930891b",
+        "id": "d2e7993055145534",
         "type": "tabs",
         "children": [
           {
-            "id": "872f5721c8e66290",
+            "id": "ad14bbd73a3e9855",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +70,7 @@
             }
           },
           {
-            "id": "45f1dfefd2073a9b",
+            "id": "fa61585000561547",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +85,7 @@
             }
           },
           {
-            "id": "fdbd6eb9b5069efd",
+            "id": "2d50e82f814fbb6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +99,20 @@
     "width": 300
   },
   "right": {
-    "id": "9e0c0e11bf50e3ec",
+    "id": "4ee9345eb474271d",
     "type": "split",
     "children": [
       {
-        "id": "e4505b6082d45b5a",
+        "id": "61f0184b49a29f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "1000db619ef0cc68",
+            "id": "7a19b125182acd93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +124,19 @@
             }
           },
           {
-            "id": "88522f76346c84b4",
+            "id": "c89ac172a5c2cf9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2623b6256d7be338",
+            "id": "3e7458d66b2fa7ce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +147,12 @@
             }
           },
           {
-            "id": "9ca34ca60570a0cf",
+            "id": "f4cf37a7cd2867e8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/dailies/2024-03-05.md"
+                "file": "Poetry.md"
               }
             }
           }
@@ -146,22 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "872f5721c8e66290",
+  "active": "17a7f9d71c8ad6c3",
   "lastOpenFiles": [
-    "dailies/2024-03-04.md",
-    "dailies",
     "Welcome.md",
-    "notes/dailies/2024-03-05.md",
-    "Test.md",
-    "stripe",
-    "notes/dailies/2024-03-04.md",
-    "notes/dailies",
-    "notes",
-    "2024-03-04.md",
-    "stripe/Stripe Onboarding Flow.md",
-    "Daily",
-    "Stripe Onboarding Flow",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Poetry.md"
   ]
 }

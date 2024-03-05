@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7676efc44e5208da",
+    "id": "9c60efaa2b3e1906",
     "type": "split",
     "children": [
       {
-        "id": "44550919c6506d28",
+        "id": "cae73fba7d7c9089",
         "type": "tabs",
         "children": [
           {
-            "id": "f029ef07faeb7a9d",
+            "id": "faef398ba6bf8111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3580012a8f015fe3",
+    "id": "c75aa08bb9a34def",
     "type": "split",
     "children": [
       {
-        "id": "e15bcbf43930891b",
+        "id": "d24af07c220f0c10",
         "type": "tabs",
         "children": [
           {
-            "id": "872f5721c8e66290",
+            "id": "1451b896e75f9ec3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "45f1dfefd2073a9b",
+            "id": "a6773b781422ea22",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fdbd6eb9b5069efd",
+            "id": "5371b8de5bb74cd2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "9e0c0e11bf50e3ec",
+    "id": "3b26dd1fe63df07e",
     "type": "split",
     "children": [
       {
-        "id": "e4505b6082d45b5a",
+        "id": "768dbc26af8e45eb",
         "type": "tabs",
         "children": [
           {
-            "id": "1000db619ef0cc68",
+            "id": "19fb827389705b31",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "88522f76346c84b4",
+            "id": "5cc6536e1e243a19",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dailies/2024-03-05.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2623b6256d7be338",
+            "id": "d08d6c9207fffdf5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "9ca34ca60570a0cf",
+            "id": "caa54e207e9e6d16",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/dailies/2024-03-05.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -146,22 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "872f5721c8e66290",
+  "active": "faef398ba6bf8111",
   "lastOpenFiles": [
-    "dailies/2024-03-04.md",
-    "dailies",
-    "Welcome.md",
-    "notes/dailies/2024-03-05.md",
-    "Test.md",
-    "stripe",
-    "notes/dailies/2024-03-04.md",
-    "notes/dailies",
-    "notes",
-    "2024-03-04.md",
-    "stripe/Stripe Onboarding Flow.md",
-    "Daily",
-    "Stripe Onboarding Flow",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Alan Wake inspired.md",
+    "Welcome.md"
   ]
 }
